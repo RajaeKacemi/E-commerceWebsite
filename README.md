@@ -6,3 +6,4 @@ How to Run the Project
 4. Navigate to the directory: `cd backend` and `cd customer`,
 5. run the servers : `npm start`
 6. Open your browser and visit: `http://localhost:3001`
+To see the project try : https://prestigious-five.vercel.app/
